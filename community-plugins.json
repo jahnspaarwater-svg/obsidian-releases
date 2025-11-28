@@ -18773,4 +18773,11 @@
     "description": "Sync your vault with Nutstore/坚果云 using WebDAV protocol.",
     "repo": "nutstore/obsidian-nutstore-sync"
   }
+{
+  "id": "canvai-preset",
+  "name": "CanvAiPreset",
+  "author": "jhps",
+  "description": "Advanced AI integration for Obsidian Canvas with preset management.",
+  "repo": "jahnspaarwater-svg/Jhps-Obsidian-CanvAiPreset"
+}
 ]
